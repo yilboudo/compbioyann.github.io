@@ -22,11 +22,6 @@ baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
-twitter: masakanai
-github: mkanai
-orcid: 0000-0001-5165-4408
-gscholar: https://scholar.google.com/citations?hl=en&user=jb3AUMsAAAAJ
-pubmed: https://www.ncbi.nlm.nih.gov/myncbi/masahiro.kanai.1/bibliography/public/
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -83,7 +78,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: yilboudo # your GitHub user name
+github_username: yilboudo
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
@@ -92,16 +87,16 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: yannilboudo# your LinkedIn user name
+linkedin_username: yannilboudo
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: 0000-0002-8809-0922 # your ORCID ID
+orcid_id: 0000-0002-8809-0922
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: oFa4ymkAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: oFa4ymkAAAAJ&hl=en
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -113,7 +108,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: # your X handle
+x_username: @Yann_Speaks
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
