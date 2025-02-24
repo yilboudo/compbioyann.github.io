@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Lady Davis | McGill University</a>.  yilboudo [at] gmail [dot] com.
+subtitle: <a href='#'> Channing Division of Network Medicine | Brigham and Women's Hospital | Harvard University </a>.  yilboudo [at] gmail [dot] com.
 
 profile:
   align: right
