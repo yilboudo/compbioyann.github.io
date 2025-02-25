@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Channing Division of Network Medicine & Brigham and Women’s Hospital & Harvard Medical School </a>.  yilboudo [at] gmail [dot] com.
+subtitle: <a href='#'> Channing Division of Network Medicine &\n
+                       Brigham and Women’s Hospital &\n
+                       Harvard Medical School </a>.  yilboudo [at] gmail [dot] com.
 
 profile:
   align: right
