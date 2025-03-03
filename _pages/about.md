@@ -21,6 +21,6 @@ Previously, I worked as a research associate in [Brent Richards](https://www.mcg
 
 As a computational biologist, my research focuses on analyses to identify the genetic determinants of common, aging-related endocrine diseases. In my thesis project, I integrated multiple omics datasets to uncover the severity modifiers of sickle cell disease. 
 
-My curriculum vitae can be found [here](assets/pdf/Yann_Ilboudo_CV_Oct302024_RA.pdf).
+My curriculum vitae can be found [here](assets/pdf/Yann_Ilboudo_CV_Mar2025.pdf).
 
 
