@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Channing Division of Network Medicine & Brigham and Women’s Hospital & <br>
-                       Harvard Medical School </a>.  yilboudo [at] gmail [dot] com.
+subtitle:
+Postdoctoral Fellow @ [Channing Division of Network Medicine & Brigham and Women’s Hospital](https://cdnm.bwh.harvard.edu/)
+Research Fellow @ [Harvard Medical School](https://hms.harvard.edu/) .  yann.ilboudo [at] proton [dot] me.
 
 profile:
   align: right
