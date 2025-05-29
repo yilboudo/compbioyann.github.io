@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[Channing Division of Network Medicine<br>Brigham and Women’s Hospital<br>Harvard Medical School](https://connects.catalyst.harvard.edu/Profiles/display/Person/223466)</a>. yann.ilboudo [at] proton [dot] me.
+subtitle: <a href='#'>Channing Division of Network Medicine<br>Brigham and Women’s Hospital<br>Harvard Medical School</a>.<br>yann.ilboudo [at] proton [dot] me.
 
 profile:
   align: right
