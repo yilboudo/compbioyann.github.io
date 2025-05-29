@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral Fellow @ [Channing Division of Network Medicine & Brigham and Women’s Hospital](https://cdnm.bwh.harvard.edu/)<br>Research Fellow @ [Harvard Medical School](https://hms.harvard.edu/)</a>. yann.ilboudo [at] proton [dot] me
-
+subtitle: <a href='#'>Postdoctoral Fellow @ [Channing Division of Network Medicine & Brigham and Women’s Hospital](https://cdnm.bwh.harvard.edu/)<br>Research Fellow @ [Harvard Medical School](https://hms.harvard.edu/)</a>. yann.ilboudo [at] proton [dot] me.
 
 profile:
   align: right
