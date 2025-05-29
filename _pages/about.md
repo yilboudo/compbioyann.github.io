@@ -3,8 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle:
+---
 Postdoctoral Fellow @ [Channing Division of Network Medicine & Brigham and Women’s Hospital](https://cdnm.bwh.harvard.edu/)
-Research Fellow @ [Harvard Medical School](https://hms.harvard.edu/) .  yann.ilboudo [at] proton [dot] me.
+Research Fellow @ [Harvard Medical School](https://hms.harvard.edu/) .  yann.ilboudo [at] proton [dot] me---
+
 
 profile:
   align: right
