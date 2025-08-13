@@ -3,7 +3,6 @@
     "name": "Yann Ilboudo",
     "label": "Scientist",
     "image": "",
-    "email": "yann.ilboudo@proton.me",
     "url": "https://yannilboudo.github.io",
     "summary": "A computational biologist wrangling with genetic datasets",
     "location": {
@@ -23,6 +22,8 @@
   }, "work" : [{
       "name": "Brigham & Women's Hospital, Harvard Medical School",
       "position": "Postdoctoral Researcher",
+      "startDate": "2025-01-01",
+      "endDate": "present",
       "url": "https://cdnm.bwh.harvard.edu/",
       "summary": "Obesity in African ancestry populations",
       "highlights": ["BMI GWAS"]
@@ -30,6 +31,8 @@
     {
       "name": "Lady Davis, McGill University",
       "position": "Research Associate",
+      "startDate": "2022-01-01",
+      "endDate": "2025-01-01",
       "url": "https://www.mcgill.ca/genepi/",
       "summary": "Research on age related and endocrine related disorders.",
       "highlights": ["Vitamin D and cognition"]
