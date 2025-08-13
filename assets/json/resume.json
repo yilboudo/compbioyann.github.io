@@ -4,7 +4,6 @@
     "label": "Scientist",
     "image": "",
     "email": "yann.ilboudo@proton.me",
-    "phone": "(857) 381-1317",
     "url": "https://yannilboudo.github.io",
     "summary": "A computational biologist wrangling with genetic datasets",
     "location": {
@@ -27,8 +26,7 @@
       "url": "https://cdnm.bwh.harvard.edu/",
       "summary": "Obesity in African ancestry populations",
       "highlights": ["BMI GWAS"]
-    }],
-  "work": [
+    },
     {
       "name": "Lady Davis, McGill University",
       "position": "Research Associate",
