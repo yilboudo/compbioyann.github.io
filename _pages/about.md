@@ -20,5 +20,5 @@ Previously, I worked as a research associate in [Brent Richards](https://www.mcg
 
 As a computational biologist, my research focuses on performing sophisticated computational analyses of biological data. In my thesis project, I integrated multiple omics datasets to uncover the severity modifiers of sickle cell disease. 
 
-My curriculum vitae can be found [here](assets/pdf/Yann_Ilboudo_CV_Mar2025.pdf).
+My curriculum vitae can be found [here](assets/pdf/Yann_Ilboudo_CV_Aug2025.pdf).
 
