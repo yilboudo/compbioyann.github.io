@@ -3,16 +3,16 @@
     "name": "Yann Ilboudo",
     "label": "Scientist",
     "image": "",
-    "email": "yilboudo@gmail.com",
-    "phone": "(514) 573-4580",
+    "email": "yann.ilboudo@proton.me",
+    "phone": "(857) 381-1317",
     "url": "https://yannilboudo.github.io",
     "summary": "A computational biologist wrangling with genetic datasets",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Montreal",
-      "countryCode": "CA",
-      "region": "QC"
+      "city": "Boston",
+      "countryCode": "USA",
+      "region": "MA"
     },
     "profiles": [
       {
@@ -21,14 +21,18 @@
         "url": "https://twitter.com/Yann_Speaks"
       }
     ]
-  },
+  }, "work" : [{
+      "name": "Brigham & Women's Hospital, Harvard Medical School",
+      "position": "Postdoctoral Researcher",
+      "url": "https://cdnm.bwh.harvard.edu/",
+      "summary": "Obesity in African ancestry populations",
+      "highlights": ["BMI GWAS"]
+    }],
   "work": [
     {
       "name": "Lady Davis, McGill University",
       "position": "Research Associate",
       "url": "https://www.mcgill.ca/genepi/",
-      "startDate": "2022-06-22",
-      "endDate": "Present",
       "summary": "Research on age related and endocrine related disorders.",
       "highlights": ["Vitamin D and cognition"]
     }
