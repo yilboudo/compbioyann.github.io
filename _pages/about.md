@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am the recipient of the [prestigious CIHR Postdotoral](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=537014&lang=en) 
-and recipient of the nationally competitive [2026 ULCA Emerging Genomic Scientist](https://medschool.ucla.edu/about/departments/basic-science/human-genetics/about-us/emerging-genomic-scientist-symposium)
+and recipient of the nationally competitive [2026 ULCA Emerging Genomic Scientist](https://medschool.ucla.edu/about/departments/basic-science/human-genetics/about-us/emerging-genomic-scientist-symposium).
 
 I am a posdoctoral fellow in [Tinashe Chikowore's Lab](https://www.tinashechikowore.com/) at [Channing Division of Network Medicine & Brigham and Women’s Hospital](https://cdnm.bwh.harvard.edu/) and a research fellow at [Harvard Medical School](https://hms.harvard.edu/).
 
@@ -24,5 +24,5 @@ Previously, I worked as a research associate in [Brent Richards](https://www.mcg
 
 As a computational biologist, my research focuses on performing sophisticated computational analyses of biological data. In my thesis project, I integrated multiple omics datasets to uncover the severity modifiers of sickle cell disease. 
 
-My curriculum vitae can be found [here](assets/pdf/Yann_Ilboudo_CV_Aug2025.pdf).
+My curriculum vitae can be found [here](assets/pdf/Ilboudo_Mitibketa_Yann _HMS_CV_09.14.2026.pdf).
 
