@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Yann_Ilboudo_CV_Aug2025.pdf
+cv_pdf: Ilboudo_Mitibketa_Yann_HMS_CV_09.14.2026.pdf
 description: 
 toc:
   sidebar: left
