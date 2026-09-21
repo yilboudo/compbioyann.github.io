@@ -21,6 +21,8 @@ and the recipient of the nationally competitive [2026 ULCA Emerging Genomic Scie
 
 Since 2025, I became the Chair, and I am the now Co-Chair of the [Harvard Medical Black Postdotoral Association](https://www.hbpa.hms.harvard.edu/).
 
+I am a member of the [Black Wealth Club](https://www.theala.ca/blackwealthclub), I co-lead the Health is Wealth Initiative in the group.
+
 I am a posdoctoral fellow in [Tinashe Chikowore's Lab](https://www.tinashechikowore.com/) at [Channing Division of Network Medicine & Brigham and Women’s Hospital](https://cdnm.bwh.harvard.edu/) and a research fellow at [Harvard Medical School](https://hms.harvard.edu/).
 
 Previously, I worked as a research associate in [Brent Richards](https://www.mcgill.ca/genepi/)' Lab at the Lady Davis Institute & McGill University. Prior to joining the lab, I completed my Ph.D. in bioinformatics under the supervision of [Guillaume Lettre](http://www.mhi-humangenetics.org/fr/membres/). 
