@@ -19,7 +19,7 @@ I am the recipient of the [prestigious CIHR Postdotoral](https://webapps.cihr-ir
 and recipient of the nationally competitive [2026 ULCA Emerging Genomic Scientist](https://medschool.ucla.edu/about/departments/basic-science/human-genetics/about-us/emerging-genomic-scientist-symposium).
 
 
-Since 2025, I became the Chair, and I am the now Co-Chair of the [Harvard Black Postdotoral Association](https://www.hbpa.hms.harvard.edu/)
+Since 2025, I became the Chair, and I am the now Co-Chair of the [Harvard Black Postdotoral Association](https://www.hbpa.hms.harvard.edu/).
 
 I am a posdoctoral fellow in [Tinashe Chikowore's Lab](https://www.tinashechikowore.com/) at [Channing Division of Network Medicine & Brigham and Women’s Hospital](https://cdnm.bwh.harvard.edu/) and a research fellow at [Harvard Medical School](https://hms.harvard.edu/).
 
